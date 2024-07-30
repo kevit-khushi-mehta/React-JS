@@ -1,0 +1,19 @@
+.app {
+  text-align: center;
+
+  padding: 20px;
+
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #5d3747;
+}
+
+.user-list {
+  list-style-type: none;
+
+  padding: 0;
+
+  margin: 0;
+}
